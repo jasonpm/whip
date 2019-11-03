@@ -1,0 +1,2 @@
+# whip
+Personal finance tool
